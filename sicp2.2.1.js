@@ -61,7 +61,7 @@ const one_through_three = list(1, 2, 3);
 
 // Coin Questions
 
-const us_coins = list(50, 25, 10, 5, 1);
+const us_coins = list(25, 10, 5, 50, 1);
 const uk_coins = list(100, 50, 20, 10, 5, 2, 1);
 
 function first_denomination(coin_values) {
